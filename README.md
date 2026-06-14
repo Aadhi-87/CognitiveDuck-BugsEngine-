@@ -7,7 +7,7 @@ An advanced, single-agent engineering companion built for the Agents League Hack
 - **Automated Refactoring:** Provides clean structural fixes optimized for scaling safety.
 
 ## 🛠️ Installation & Setup
-1. Clone the repository: `git clone <your-repo-url>`
+1. Clone the repository: `git clone <https://github.com/Aadhi-87/CognitiveDuck-BugsEngine-.git>`
 2. Install dependencies: `pip install streamlit google-genai`
 3. Launch the application: `python -m streamlit run app.py`
 4. Enter your Gemini API key in the sidebar panel to unlock inference.
